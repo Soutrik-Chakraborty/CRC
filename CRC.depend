@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554140212 source:c:\web development tutorials\c++\c++ projects\crc\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
